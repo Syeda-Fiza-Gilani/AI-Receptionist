@@ -6,6 +6,9 @@ Built entirely with free-tier tools: **n8n + Twilio + Google Gemini + Google Cal
 
 ---
 
+<img width="1411" height="650" alt="image" src="https://github.com/user-attachments/assets/5706f544-3f89-4e41-835f-902717b908c5" />
+
+
 ## ✨ What it does
 
 - ☎️ Answers incoming calls on a real phone number
